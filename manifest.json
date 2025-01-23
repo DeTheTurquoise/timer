@@ -1,6 +1,6 @@
 {
-  "manifest_version": 1,
-  "name": "Tea - Work Timer",
+  "manifest_version": 3,
+  "name": "TeaTimer",
   "description": "Wspiera w pracy w przedziałach czasowych: 25 minut na pracę, 5 minut na herbatę :)",
   "version": "1.0",
   "action": {
